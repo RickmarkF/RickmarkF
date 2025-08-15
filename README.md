@@ -28,7 +28,7 @@ Aplicación para ver y gestionar animes de temporada.
 
 - Email: rickmark2000@outlook.com
 - GitHub: [RickmarkF](https://github.com/RickmarkF)  
-- LinkedIn: [Tu perfil](https://www.linkedin.com/in/tu-perfil)
+- LinkedIn: [Tu perfil](www.linkedin.com/in/ricardo-sánchez-fernández-aa0b97254)
 
 ---
 
