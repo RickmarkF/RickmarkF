@@ -6,11 +6,11 @@
 
 ## 💻 Tecnologías y Habilidades
 
-- **Lenguajes:** Java, Kotlin
-- **Frameworks:** Android (Jetpack Compose), React, Node.js
-- **Bases de datos:** SQLServer
+- **Lenguajes:** Java,Kotlin,C#
+- **Frameworks:** Android
+- **Bases de datos:** SQLServer,Redis,Mongo
 - **Herramientas:** Git, GitHub, Android Studio, VS Code, Docker
-- **Metodologías:** Agile, TDD, Clean Code
+- **Metodologías:** Agile, Clean Code
 
 ---
 
