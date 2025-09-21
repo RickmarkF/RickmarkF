@@ -1,4 +1,4 @@
-# RickmarkF 🚀
+# Información sobre mi 🚀
 
 ¡Hola! Soy **Ricardo**, desarrollador apasionado por crear aplicaciones eficientes y experiencias digitales atractivas. Me encanta aprender nuevas tecnologías y llevar proyectos desde la idea hasta la implementación.
 
@@ -10,6 +10,7 @@
 - **Frameworks:** Android
 - **Bases de datos:** SQLServer,Redis,Mongo
 - **Herramientas:** Git, GitHub, Android Studio, VS Code, Docker
+- **Tecnologias en streaming de datos:** Apache Flink, Rabbit, Kafka
 - **Metodologías:** Agile, Clean Code
 
 ---
@@ -29,7 +30,3 @@ Aplicación para ver y gestionar animes de temporada.
 - Email: rickmark2000@outlook.com
 - GitHub: [RickmarkF](https://github.com/RickmarkF)  
 - LinkedIn: [Tu perfil](www.linkedin.com/in/ricardo-sánchez-fernández-aa0b97254)
-
----
-
-> “Código limpio, ideas claras y aprendizaje constante.”
