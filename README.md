@@ -17,7 +17,7 @@
 
 ## 📂 Proyectos Destacados
 
-### [RickmarkF App](https://github.com/RickmarkF/SeasonalAnimesManager)
+### [Seasonal Animes Manager](https://github.com/RickmarkF/SeasonalAnimesManager)
 Aplicación para ver y gestionar animes de temporada.  
 - Ver detalles de animes de temporada  
 - Guardar y eliminar animes  
